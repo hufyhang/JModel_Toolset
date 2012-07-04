@@ -52,9 +52,8 @@ public class LineConnector extends Connector {
             }
         }
 
-        Rectangle2D test = new Rectangle2D.Double(x - 5, y - 5, 20, 20);
-        this.ends.add(test);
 
+        // x, y conncting point
 
 // 
 // 
